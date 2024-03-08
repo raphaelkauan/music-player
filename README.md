@@ -1,6 +1,6 @@
 # Music Player para Estudos
 
-Este projeto é um tocador de música simples 
+Este projeto é um tocador de música simples.
 
 ## Instalação
 
